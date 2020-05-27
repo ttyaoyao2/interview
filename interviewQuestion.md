@@ -1,1 +1,2 @@
-
+####  线程。
+##### 思考题：[什么是面向对象，](https://github.com/ttyaoyao2/Knowledge_Star/blob/master/%E7%9B%B4%E9%9D%A2Java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)[什么是面向过程?](https://github.com/ttyaoyao2/Knowledge_Star/blob/master/%E7%9B%B4%E9%9D%A2Java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B.md)[面向对象的三大基本特征和五大基本原则是什么？](https://github.com/ttyaoyao2/Knowledge_Star/blob/master/%E7%9B%B4%E9%9D%A2Java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
